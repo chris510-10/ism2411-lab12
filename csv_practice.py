@@ -1,3 +1,7 @@
+# Question 1 - Excel is easier when it comes to organizing data, making charts, and doing the simple things while Python is better for making things automated and handling large amounts of data.
+
+# Question 2 - A business could use an append-mode log to keep track of its customer orders, including the date, time, and order information. Append mode is useful because it adds new orders without deleting the previous ones.
+
 import csv
 from datetime import datetime
 
